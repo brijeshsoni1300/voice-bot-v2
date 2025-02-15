@@ -42,7 +42,7 @@ A Python library that enables voice interactions with LLM chatbots by combining 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/username/voice-bot-v2.git
+   https://github.com/brijeshsoni1300/voice-bot-v2.git
    cd voice-bot-v2
    ```
 
